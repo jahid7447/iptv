@@ -1,52 +1,47 @@
 #EXTM3U
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,Chanel 24
-https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Chanel 9
-http://fr-c.movply.stream/hls/channel9-tv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,DBC NEWS
-https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,DEEPTO TV
-https://triangle.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,DESH TV
-https://triangle.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,EKATTOR TV
-https://triangle.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,GAAN BANGLA
-https://triangle.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Gazi TV
-http://fr-c.movply.stream/hls/gazi-tv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,INDEPENDENT TV
-https://triangle.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,JAMUNA TV
-https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,NTV
-https://triangle.iptv.digijadoo.net/live/ntv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,R TV
-https://triangle.iptv.digijadoo.net/live/rtv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SA TV
-https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SOMOY NEWS
-https://triangle.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?checkedby:iptvcat.com 
-#EXTINF:-1 ,ATN BANGLA
-https://triangle.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ATN NEWS
-https://triangle.iptv.digijadoo.net/live/atn_news/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,BOISHAKHI TV
-https://triangle.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,CHANEL I
-https://triangle.iptv.digijadoo.net/live/channel_i/chunks.m3u8?checkedby:iptvcat.com 
-#EXTINF:-1 ,Maasranga 
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8 
-#EXTINF:-1 ,Asian TV 
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8 
-#EXTINF:-1 ,Banglavision TV 
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8 
-#EXTINF:-1 ,Ekushey TV 
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8 
-#EXTINF:-1 ,Duronto TV 
+bangla_vision/chunks.m3u8 
+#EXTINF:-1 ,Gazi Tv
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 ,Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 ,Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1 ,ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1 ,ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1 ,Banglavision TV
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 ,Boishakhi TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1 ,Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 ,Channel I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1 ,DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 ,Ekattor TV
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 ,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 ,NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 ,Nagorik TV
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 ,RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 ,SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 ,STAR JALSHA
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8?checkedby:iptvcat.com 
 #EXTINF:-1 ,IN: SONY AATH
@@ -417,7 +412,7 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 ,Zee Bangla
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
-#EXTINF:-1 ,Jonack TV
+# ,Jonack TV
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 ,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
@@ -1315,3 +1310,11 @@ http://42.98.239.149:9981/stream/channelid/487833512
 http://42.98.239.149:9981/stream/channelid/704909020
 #EXTINF:-1 ,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+Comment on gist
+Leave a comment
+Comment
+Notifications for this thread
+You’re receiving notifications because you authored the thread.
+
+ Unsubscribe
+Desktop version
