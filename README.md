@@ -50,8 +50,8 @@ http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8 
 #EXTINF:-1 ,Zee Bangla
 http://fr-c.movply.stream/hls/Zee_Bangla.m3u8?checkedby:iptvcat.com 
-#EXTINF:-1 ,COLORS BANGLA
-https://triangle.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8?checkedby:iptvcat.com 
+#EXTINF:-1 ,Colors Bangla
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8 
 #EXTINF:-1 ,ZEE TV 
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8 
 #EXTINF:-1 ,ZEE cinema 
