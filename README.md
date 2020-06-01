@@ -72,7 +72,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 #EXTINF:-1 ,IN: SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne 
 #EXTINF:-1 ,Colors
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1 ,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 ,STAR PLUS HD 
