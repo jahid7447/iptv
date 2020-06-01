@@ -95,6 +95,14 @@ https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1,IN: MASTIII
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1,IN: ZOOM TV
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
+#EXTINF:-1,IN: MUSIC INDIA
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1,IN: 9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://103.68.116.50/live/feed1006/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
