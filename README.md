@@ -57,7 +57,11 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ,ZEE cinema 
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8 
 #EXTINF:-1 ,ZEE BOLLYWOOD 
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8 
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,IN: &FLIX HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1,IN: &PICTURES HD
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 ,IN: SONY MAX 
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne 
 #EXTINF:-1 ,IN: SONY MAX HD 
