@@ -95,18 +95,6 @@ https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,IN: MASTIII
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1,IN: ZOOM TV
-https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
-#EXTINF:-1,IN: MUSIC INDIA
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1,IN: 9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://103.68.116.50/live/feed1006/index.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1 ,IN: SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne 
 #EXTINF:-1 ,NICKELODEON
