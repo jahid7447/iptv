@@ -90,6 +90,8 @@ https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1,IN: ZOOM TV
+http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
 #EXTINF:-1 ,IN: SONY TEN 1 
 http://103.205.133.19/hls/ten1.m3u8 
 #EXTINF:-1 ,IN: SONY SIX HD 
