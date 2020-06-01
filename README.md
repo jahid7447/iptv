@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-bangla_vision/chunks.m3u8 
+#EXTINF:-1 ,Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,Maasranga
@@ -1316,11 +1317,3 @@ http://42.98.239.149:9981/stream/channelid/487833512
 http://42.98.239.149:9981/stream/channelid/704909020
 #EXTINF:-1 ,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-Comment on gist
-Leave a comment
-Comment
-Notifications for this thread
-You’re receiving notifications because you authored the thread.
-
- Unsubscribe
-Desktop version
