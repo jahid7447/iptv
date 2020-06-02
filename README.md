@@ -45,6 +45,8 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 ,STAR JALSHA
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8?checkedby:iptvcat.com 
+#EXTINF:-1 ,Star Jalsha hd
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 ,IN: SONY AATH
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 ,Star Jalsha Movies 
