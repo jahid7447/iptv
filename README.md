@@ -91,18 +91,8 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 ,FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 ,American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 ,HOLLYWOOD
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 ,Sony Movies
-http://51.52.156.22:8888/http/009
 #EXTINF:-1 ,Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 ,Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:-1 ,Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 ,B4U Movies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8 
 #EXTINF:-1 ,B4U Music
