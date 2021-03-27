@@ -1,111 +1,123 @@
-#EXTM3U
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_asian_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
+https://rhridoy136.shortcm.li/btvworld.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_probashibanglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_asian_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh", (ONLINE) ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_atn_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh", (ONLINE) ATN NEWS
+https://rhridoy136.shortcm.li/atnnews.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bangla_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh", (ONLINE) ATN ISLAMIC
+https://rhridoy136.shortcm.li/atnislamic.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bangla_visionPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_bijoy_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", (ONLINE) Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_boishakhi_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_24PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Channel9
+https://rhridoy136.shortcm.li/channel9.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_9PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Channel24
+https://rhridoy136.shortcm.li/channel24.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_channel_iPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh", (OFFLINE) Channel S
+https://ahmadabdullahrifat.shortcm.li/channelsuk
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_dbc_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) DBC News
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_deepto_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) Boishakhi
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_btv_worldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) Maasranga
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_desh_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) SA TV
+https://rhridoy136.shortcm.li/satv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_duronto_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) SHOMOY TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ekattor_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh", (ONLINE) Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ekushey_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="Bangladesh", (ONLINE) Digi Bangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_gaan_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", (ONLINE) Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_independent_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", (ONLINE) Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jamuna_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", (ONLINE) Mohona TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_maasrangaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", (ONLINE) DeshTV
+https://rhridoy136.shortcm.li/deshtv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_mohona_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNwZEs9.png" group-title="Bangladesh", (ONLINE) My TV
+http://10.16.100.205/hls/my_tv_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_my_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", (ONLINE) NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ntvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HI2UAS4.png" group-title="Bangladesh", (ONLINE) Nagorik TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nagorik_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", (ONLINE) RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_news_24_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", (ONLINE) Colors Bangla
+http://10.16.100.205/hls/colorsbd480.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_rtvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="IND বাংলা",Zee Bangla
+http://otv.ftpbd.net/streams/107/index.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sa_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="IND বাংলা",Star Jalsha (1)
+http://103.205.133.48/hls/chsj.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_somoy_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 tvg-id="JalshaMovies.in" group-title="IND বাংলা",Jalsha Movies (1)
+http://otv.ftpbd.net/streams/115/index.m3u8?Live-TV™
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_aathPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IND বাংলা",Sony Aath (1)
+http://103.205.133.48/hls/sony8.m3u8?Live-TV™
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_zee_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", (ONLINE) Gaan Bangla
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jalsha_moviesPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_jalsha_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", (ONLINE) Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_colors_bangla_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_plus_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) EkusheTV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music", (ONLINE) Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_movies_okPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music", (ONLINE) MTunes
+http://10.16.100.207:8082/sports/mtuness.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", (ONLINE) Sony Ten 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sabPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", (ONLINE) Star Sports Select 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_max_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nickelodeonPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonicPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_cartoon_networkPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonyPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_sixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_1PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_3PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_pixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_hboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_dhoom_musicPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_music_indiaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sangeet_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_wbPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports", (ONLINE) Star Sports Select 2
+http://10.16.100.207:8082/sports/ssselect2.m3u8
